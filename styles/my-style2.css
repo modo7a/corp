@@ -84,6 +84,7 @@
                                                         background: url("../images/header.jpg");
                                                         position: relative;
                                                         background-repeat: no-repeat;
+                                                        background-size: cover;
                                                     }
                                                     
                                                     .header .overlay {
